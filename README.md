@@ -14,7 +14,7 @@ variables:
 $ cp config/config.yaml.sample config/config.yaml
 # Edit the file
 $ nvim config/config.yaml
-# OR, use and environmental variable
+# OR, use the environmental variable
 $ export BOT_TOKEN=bot_token_here
 ```
 
