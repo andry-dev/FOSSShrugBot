@@ -8,4 +8,4 @@ WORKDIR /app
 
 RUN ./setup.sh
 
-CMD ["start.sh"]
+CMD ["./start.sh"]
